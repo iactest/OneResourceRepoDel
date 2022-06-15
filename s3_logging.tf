@@ -24,3 +24,11 @@ resource "aws_s3_bucket" "examplebucket5" {
 resource "aws_s3_bucket" "examplebucket6" {
   bucket = "examplebuckettftest6"
 }
+
+resource "aws_s3_bucket" "examplebucket7" {
+  bucket = "examplebuckettftest7"
+}
+
+resource "aws_s3_bucket" "examplebucket8" {
+  bucket = "examplebuckettftest8"
+}
